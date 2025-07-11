@@ -74,4 +74,5 @@ Vaibhav Davale
 Ajay Mali
 📧 vaibhav@example.com
 📍 India
+![1000065888](https://github.com/user-attachments/assets/2a894d5e-79bf-464e-a38f-56c5d8e97e54)
 
